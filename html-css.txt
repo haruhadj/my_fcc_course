@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    head
+    body
+        main
+html
+h1
+p
+
+div
+section
+
+article

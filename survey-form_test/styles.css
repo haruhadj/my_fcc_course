@@ -1,0 +1,24 @@
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+  }
+
+  label {
+    display: block;
+    margin: 2rem 0;
+  }
+
+  input, select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+
+  }
+  h1, p {
+    text-align: center;
+  }
+
+  
